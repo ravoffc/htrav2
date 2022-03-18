@@ -26,15 +26,22 @@
             </div>
         </div>
     <br>
-<div class="row justify-content-center">
-            <h1>Tentang Kami</h1>
+    <div class="container">
+        <h1>Form Pemesanan</h1>
+        <div>
+            <label class="label">Nama Pemesanan</label>
+            <input type="text" name="pesan" class="input" style="margin-left: 10%;">
         </div>
-        <div class="row justify-content-center">
-            <p class="text-left">Mari pesan Hotel di Hotel Hebat dikelilingi oleh keindahan laut dan pengunungan yang nyaman di mata.
-                <br>Di sore hari ditemani dengan pemandangan sunset yang menyayat hati sambil berenang difasilitas hotel,
-                <br>juga dengan kapasitas mampu menampung lebih dari 300 orang dengan akreditasi bintang lima kalian 
-                <br>bisa dapatkan pengalaman mewah seumur hidup.
-                <br> Ayo pesan kamar sekarang juga !!!
-            </p>
+        <div>
+            <label class="label">E-mail</label>
+            <input type="text" name="pesan" class="input" style="margin-left: 18%;">
         </div>
+        <div>
+            <label class="label">No tlp</label>
+            <input type="text" name="pesan" class="input" style="margin-left: 10%;">
         </div>
+        <div>
+            <label class="label">Nama Tamu</label>
+            <input type="text" name="pesan" class="input" style="margin-left: 10%;">
+        </div>
+    </div>
